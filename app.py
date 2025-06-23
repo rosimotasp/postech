@@ -9,7 +9,8 @@ st.set_page_config(page_title="Previsão de Obesidade", layout="centered")
 url_modelo = 'https://github.com/rosimotasp/postech/raw/main/modelo_obesidade.pkl'
 from io import BytesIO
 response = requests.get(url_modelo)
-modelo = pickle.load(BytesIO(response.content))
+url_modelo = 'https://raw.githubusercontent.com/rosimotasp/postech/main/modelo_obesidade.pkl'
+
 
 
 st.title("🔍 Previsão de Nível de Obesidade")
