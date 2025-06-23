@@ -7,7 +7,7 @@ import requests
 st.set_page_config(page_title="Previsão de Obesidade", layout="centered")
 
 # Carregar modelo treinado do GitHub
-url_modelo = 'https://raw.githubusercontent.com/rosimotasp/postech/main/modelo_obesidade.pkl'
+url_modelo = 'https://github.com/rosimotasp/postech/raw/main/modelo_obesidade.pkl'
 modelo = pickle.loads(requests.get(url_modelo).content)
 
 st.title("🔍 Previsão de Nível de Obesidade")
