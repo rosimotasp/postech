@@ -9,7 +9,7 @@
 A principal inovação do projeto é a integração de **IA Explicável (XAI)** com a biblioteca SHAP, que não apenas prevê o diagnóstico, mas também revela quais fatores mais contribuíram para essa decisão, transformando uma "caixa preta" em uma ferramenta de insight clínico.
 
 ### Entregáveis do Projeto
-*   **[Aplicação Preditiva (Streamlit)](URL_DA_SUA_APP_STREAMLIT_AQUI)**: Ferramenta interativa para diagnóstico de pacientes individuais.
+*   **[Aplicação Preditiva (Streamlit)](https://tech-challenge-siado-fiap.streamlit.app/))**: Ferramenta interativa para diagnóstico de pacientes individuais.
 *   **[Painel Analítico (Tableau)](URL_DO_SEU_DASHBOARD_TABLEAU_AQUI)**: Dashboard com insights estratégicos sobre os fatores de risco na população estudada.
 *   **[Vídeo de Apresentação](URL_DO_SEU_VIDEO_AQUI)**: Demonstração da solução e seus benefícios.
 
