@@ -10,7 +10,7 @@ A principal inovação do projeto é a integração de **IA Explicável (XAI)** 
 
 ### Entregáveis do Projeto
 *   **[Aplicação Preditiva (Streamlit)](https://tech-challenge-siado-fiap.streamlit.app/))**: Ferramenta interativa para diagnóstico de pacientes individuais.
-*   **[Painel Analítico (Tableau)](URL_DO_SEU_DASHBOARD_TABLEAU_AQUI)**: Dashboard com insights estratégicos sobre os fatores de risco na população estudada.
+*   **[Painel Analítico (Tableau)](https://public.tableau.com/app/profile/guillermo.privat/viz/PainelAnalticodeObesidade-TechChallenge/Painel1?publish=yes)**: Dashboard com insights estratégicos sobre os fatores de risco na população estudada.
 *   **[Vídeo de Apresentação](URL_DO_SEU_VIDEO_AQUI)**: Demonstração da solução e seus benefícios.
 
 ---
